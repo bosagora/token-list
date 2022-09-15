@@ -14,20 +14,20 @@
       "logoURI": "https://raw.githubusercontent.com/bosagora/token-list/v0.x.x/src/assets/logo-finpl.png"
     },
     {
-      "address": "0xb0D2c05F327a62F9C5BF2F44De7373cC2640fF0a",
+      "address": "0x3584542bE45492d0C119f1A956e8c581C86928d1",
       "chainId": 2019,
-      "name": "Token G",
-      "symbol": "GTK",
-      "decimals": 18,
+      "name": "SMA",
+      "symbol": "SMA",
+      "decimals": 10,
       "tags": ["TOKEN"],
       "logoURI": "https://raw.githubusercontent.com/bosagora/token-list/v0.x.x/src/assets/logo-gametoken.svg"
     },
     {
-      "address": "0x09EFbD13f910b0F768756Dc188a4D3ba7932d47d",
+      "address": "0xe752FD1eA7A76f8A515d93Ec8fa18ae16a6C675B",
       "chainId": 2019,
-      "name": "Token E",
-      "symbol": "ETK",
-      "decimals": 18,
+      "name": "SMB",
+      "symbol": "SMB",
+      "decimals": 10,
       "tags": ["TOKEN"],
       "logoURI": "https://raw.githubusercontent.com/bosagora/token-list/v0.x.x/src/assets/logo-ecotoken.svg"
     },
@@ -70,7 +70,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
