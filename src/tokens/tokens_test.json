@@ -66,11 +66,20 @@
       "decimals": 18,
       "tags": ["TOKEN"],
       "logoURI": "https://raw.githubusercontent.com/bosagora/token-list/v0.x.x/src/assets/logo-finpl.png"
+    },
+    {
+      "address": "0x9855482dDDE7E9B903238A8Da5e011C301073e2d",
+      "chainId": 2019,
+      "name": "ColdNoodle",
+      "symbol": "CNT",
+      "decimals": 18,
+      "tags": ["TOKEN"],
+      "logoURI": "https://raw.githubusercontent.com/bosagora/token-list/v0.x.x/src/assets/logo-cnt.jpg"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 5,
-    "patch": 1
+    "minor": 6,
+    "patch": 0
   }
 }
